@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+
+article {
+    border: 1px solid #444444;
+    width: 60vw;
+    text-align: center;
+    margin-inline: auto;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    color: #EDEDED;
+}
+
+.newPostForm {
+    border: 1px solid #444444;
+    color: #EDEDED;
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    padding: 30px;
+    margin-inline: auto;
+    text-align: center;
+}
+
+.inputAddPost {
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+    padding: 5px;
+    border: 0;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+label {
+    font-weight: 600;
+}
+
+.postList {
+    text-align: center;
+    color: #EDEDED;
+}
+
+h1 {
+    color: #DA0037;
+}
+
+span {
+    color: #7d7c7c;
+    font-size: 18px !important;
+}
+
+body {
+    background-color: #171717;
+    font-family: 'Inter', sans-serif;
+    padding: 10px;
+}
+
+p {
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+.newPostBtn {
+    width: 200px;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    margin-inline: auto;
+    margin-top: 10px;
+    color: #EDEDED;
+    background-color: #DA0037;
+}
